@@ -1,0 +1,10 @@
+Commands:
+  1:
+    - say Run productID 1 commands
+    - say Automatically change {name} and {price}
+  2:
+    - say Run productID 2 commands
+    - say Automatically change {customerEmail} and {username}
+  3:
+    - say Run productID 3 commands
+    - say Automatically change {paymentID} and {date}

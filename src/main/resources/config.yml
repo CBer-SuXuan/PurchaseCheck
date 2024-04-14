@@ -1,0 +1,13 @@
+# MySQL support
+Host: 127.0.0.1
+Port: 3306
+Database: root
+User: root
+Password: root
+Table: purchases
+
+# Interval time of every check (minutes)
+Interval_Time: 3
+
+# Do not edit this
+Version: 1
