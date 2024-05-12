@@ -1,4 +1,4 @@
-Commands:
+commands:
   1:
     - say Run productID 1 commands
     - say Automatically change {name} and {price}
